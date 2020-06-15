@@ -11,7 +11,7 @@ If you want to install Minecraft Client and login our server, please follow this
 * Input your name in the game, and login type set as "offline" （ATTENTION: username is the only identification for you in this server, it is not changable, transferrable.)
 * Click 'all version'->'Install a New Game'->'1.15.2'->'install', wait for downloading.
 * After installation of 1.15.2, click 'home (icon on the top)'->'play'
-
+![image](https://github.com/daweidavidwang/MinecraftUserGuide/blob/master/launcherhome.png)
 
 ### Notes
 TBD
